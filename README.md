@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Developer full stack
 --------------------
 
-Eu sou Lucas Agostinho, tenho 21 anos e nasci na cidade de Pinhais no Estado do Paraná. Atualmente estou no ramo industrial, estagiando e aprendendo um pouco sobre esse ambiente, entretanto estou em busca de uma nova especialização, na área de tecnologia, mas especificamente no curso de desenvolvimento web. Sou uma pessoa que está em constante adaptação, sempre buscando novas caminhos para percorrer.
+I am Lucas Agostinho, I am 21 years old and I was born in the city of Pinhais in the state of Paraná. Currently I am in the industrial sector, doing an internship and learning a bit about this environment, however I am in search of a new specialization, in the technology area, but specifically in the web development course at Trybe, one of the best programming schools in Brazil. I am a person who is in constant adaptation, always looking for new ways to go.
 
 * 🌍  I'm based in Curitiba - Paraná
 * 🖥️  See my portfolio at [Portfólio](http://portfolio-lucasbelgamann.vercel.app/)
