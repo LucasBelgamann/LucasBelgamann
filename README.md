@@ -9,7 +9,6 @@ I am Lucas Agostinho, I am 21 years old and I was born in the city of Pinhais in
 * 🌍  I'm based in Curitiba - Paraná
 * 🖥️  See my portfolio at [Portfólio](http://portfolio-lucasbelgamann.vercel.app/)
 * ✉️  You can contact me at [lucasbelgamann@hotmail.com](mailto:lucasbelgamann@hotmail.com)
-* 🖥️  See my curriculum at <a href={ curriculo } download>DOWNLOAD CV</a>
 
 ### Skills
 
