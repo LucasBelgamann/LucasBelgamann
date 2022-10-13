@@ -9,7 +9,7 @@ Eu sou Lucas Agostinho, tenho 21 anos e nasci na cidade de Pinhais no Estado do 
 * 🌍  I'm based in Curitiba - Paraná
 * 🖥️  See my portfolio at [Portfólio](http://agostinhoportfolio.vercel.app/)
 * ✉️  You can contact me at [lucasbelgamann@hotmail.com](mailto:lucasbelgamann@hotmail.com)
-* 🧠  I'm learning POO - Programação orientada a objetos
+* 🧠  I'm learning POO - Programação orientada a objetos and Next.js
 
 ### Skills
 
