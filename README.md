@@ -6,6 +6,8 @@ Developer full stack
 
 Eu sou Lucas Agostinho, tenho 21 anos e nasci na cidade de Pinhais no Estado do Paraná. Atualmente estou no ramo industrial, estagiando e aprendendo um pouco sobre esse ambiente, entretanto estou em busca de uma nova especialização, na área de tecnologia, mas especificamente no curso de desenvolvimento web. Sou uma pessoa que está em constante adaptação, sempre buscando novas caminhos para percorrer.
 
+*   🖥️ Front End Developer
+*   🚀 Trybe Student
 *   🌍  I'm based in Curitiba - Paraná
 *   🖥️  See my portfolio at [Portfolio](http://https://agostinhoportfolio.vercel.app/)
 *   ✉️  You can contact me at [lucasbelgamann@hotmail.com](mailto:lucasbelgamann@hotmail.com)
