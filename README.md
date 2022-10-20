@@ -35,8 +35,9 @@ Eu sou Lucas Agostinho, tenho 21 anos e nasci na cidade de Pinhais no Estado do 
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://testing-library.com/docs/react-testing-library/intro/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/99758843/178770624-d723b893-4f6a-41c8-bdee-99ce79946626.png" width="36" height="36" alt="RTL" /></a>
+<a href="https://styled-components.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/99758843/184499853-66bc9640-f5fc-42cc-a3b8-73384c4d9471.svg" width="36" height="36" alt="Styled Components" /></a>
 </p>
-</p>
+
 
 <h2 align="left">Socials</h2>
 
