@@ -18,7 +18,7 @@ Eu sou Lucas Agostinho, tenho 21 anos e nasci na cidade de Pinhais no Estado do 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 </P>
 
-<h4 align="center">Back-end Skills</h4>
+<h2 align="center">Back-end Skills</h2>
 
 <p align="center">
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
