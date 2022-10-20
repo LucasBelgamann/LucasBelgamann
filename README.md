@@ -9,7 +9,10 @@ Eu sou Lucas Agostinho, tenho 21 anos e nasci na cidade de Pinhais no Estado do 
 *   🌍  I'm based in Curitiba - Paraná
 *   🖥️  See my portfolio at [Portfolio](http://https://agostinhoportfolio.vercel.app/)
 *   ✉️  You can contact me at [lucasbelgamann@hotmail.com](mailto:lucasbelgamann@hotmail.com)
-*   🧠  I'm learning POO - object oriented programming - and - Next.js### Skills 
+*   🧠  I'm learning POO - object oriented programming - and - Next.js
+
+### Skills
+
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -23,10 +26,10 @@ Eu sou Lucas Agostinho, tenho 21 anos e nasci na cidade de Pinhais no Estado do 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
                     
-                  ### Socials
+ ### Socials
                   
                   
-                <p align="left">
+<p align="left">
                           
                       <a href="https://www.github.com/LucasBelgamann" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
                           
