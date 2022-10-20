@@ -11,7 +11,7 @@ Eu sou Lucas Agostinho, tenho 21 anos e nasci na cidade de Pinhais no Estado do 
 *   ✉️  You can contact me at [lucasbelgamann@hotmail.com](mailto:lucasbelgamann@hotmail.com)
 *   🧠  I'm learning POO - object oriented programming - and - Next.js
 
-<h4 align="center">Programming languages</h4>
+<h2 align="center">Programming languages</h2>
 
 <p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -26,7 +26,7 @@ Eu sou Lucas Agostinho, tenho 21 anos e nasci na cidade de Pinhais no Estado do 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
 
-<h4 align="center">Front-end Skills</h4>
+<h2 align="center">Front-end Skills</h2>
 
 <p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -38,7 +38,7 @@ Eu sou Lucas Agostinho, tenho 21 anos e nasci na cidade de Pinhais no Estado do 
 </p>
 </p>
 
-<h4 align="center">Socials</h4>
+<h2 align="center">Socials</h2>
 
 <p align="center"> <a href="https://www.github.com/LucasBelgamann" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com//lucasbelgamann/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/lucasbelgamann/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
