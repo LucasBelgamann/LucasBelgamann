@@ -11,7 +11,10 @@ Eu sou Lucas Agostinho, tenho 21 anos e nasci na cidade de Pinhais no Estado do 
 *   🌍  I'm based in Curitiba - Paraná
 *   🖥️  See my portfolio at [Portfolio](http://https://agostinhoportfolio.vercel.app/)
 *   ✉️  You can contact me at [lucasbelgamann@hotmail.com](mailto:lucasbelgamann@hotmail.com)
-*   🧠  I'm learning Java - and - Next.js
+
+<h2 align="left">I'm learning 🧠</h2>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a>
 
 <h2 align="left">Programming languages</h2>
 
