@@ -31,8 +31,8 @@ Eu sou Lucas Agostinho, tenho 21 anos e nasci na cidade de Pinhais no Estado do 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://jestjs.io/pt-BR/docs/getting-started" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/99758843/178770619-48843414-5e90-4405-b81b-2ec96a4d8827.svg" width="36" height="36" alt="Jest" /></a>
 <a href="https://jestjs.io/pt-BR/docs/getting-started" target="_blank" rel="noreferrer"><img src="https://www.tutorialsteacher.com/Content/images/home/mongodb.svg" width="36" height="36" alt="mongo" /></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img align="center" alt="docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img align="center" alt="GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img align="center" alt="docker" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img align="center" alt="GIT" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
 </p></a>
 
 <h2 align="left">Front-end Skills</h2>
